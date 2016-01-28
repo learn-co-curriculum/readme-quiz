@@ -1,71 +1,58 @@
-# Course Outline Quiz
+# Readme Quiz
 
 ???
 
-# Course Outline Quiz
+# Readme Quiz
 
-?: What is the typical flow of lessons in a unit? 
+?: What is the general flow of content in a Readme lesson? 
 
-(X) have a progression of readmes with each followed one by a lab, and more difficult labs at the very end of the unit
-( ) have a progression of labs with each one followed by a readme that explains the concept 
-( ) have all your readmes first and then all your labs following that
-
-
-?: Which of the following is an example of a strong learning objective?
-
-( ) understand how locals and partials work in Rails
-( ) learn about MVC
-(X) render multiple routes with multiple views
+( ) exposition -> overview -> objectives -> resources
+(X) overview -> objectives -> resources -> exposition
+( ) objectives -> overview -> resources -> exposition
+( ) objectives -> overview -> exposition -> resources
 
 
-?: Which of the following is NOT an example of a strong learning objective?
+?: Code blocks are declared in Markdown by using
 
-( ) use the path method to filter HTTP requests
-(X) know about paths in an HTTP request
-( ) describe GET parameters and how they allow web applications to handle user queries
-
-
-?: The contributing file gives guidelines for students on how to 
-
-( ) solve a lab
-(X) raise an issue
-( ) edit the curriculum
-
-?: Learning objectives should be (check all that apply)
-
-[X] measurable
-[ ] abstract
-[X] observable
-[X] have specific conditions or criteria
-
-?: What is a good range of learning objectives to have in a lesson?
-
-( ) 1-3 
-(X) 3-8
-( ) 7-10
-
-?: Learning objectives help your lesson be 
-
-(X) student-centered
-( ) content-centered
-
-?: What’s a good verb to start with if your learning objective requires students to create something (check all that apply):
-
-[X] construct
-[ ] analyze
-[X] design
-[X] organize
+( ) single backticks followed by the specific language declaration
+( ) double backticks followed by the specific language declaration
+(X) triple backticks followed by the specific language declaration
 
 
-?: If you’re working on a lesson where we’ve defined the objectives for you, what do you do? 
+?: When you’re presenting new material 
 
-( ) just get started
-(X) review the objectives to make sure that they fit the correct format of learning objectives
+( ) don't waste time and get to it right away
+(X) show the pain of performing an action the way students are used to and then present the new material
 
-?: When writing your lessons, you should:
 
-(X) have your lessons follow multiple narrative domains so that students will have to apply their code in various scenarios
-( ) have all of your lessons follow the same narrative domain so that students can follow things more easily
+?: How should you write your lesson?
+
+( ) in first person singular (“I”)
+( ) in third person (“they”, “user”)
+(X) in second person (“you”) and first person plural (“we”)
+
+?:Which of the following is the stronger opening
+
+(X)  You're a party planner for Beyonce's 35th birthday and you're using Ruby to help you out with the arrangements. There is a variable called num_of_attendees and since she's very popular, this variable points to the integer 547. You try and print the value of num_of_attendees to the screen with the code below:
+
+`puts "There are num_of_attendees people coming to Beyonce's birthday party."`
+
+You expect this to print "There are 547 people coming to Beyonce's birthday party" but instead it prints "There are num_of_attendees people coming to Beyonce's birthday party." Why is this?
+( ) A case statement is a powerful tool to test for certain conditions. They are used to run multiple conditions against one value. There are three basic steps to creating a case statement.
+( ) The table that contains the foreign key column is the table that contains the entities that "belong to" another entity. The table that is referenced via the foreign key is the parent or owner entity that "has many" of something else. This relationship works because multiple entities in the "belonging" or child table can have the same foreign key.
+
+?: Using metaphors in Readmes is great because
+
+(X) they connect known concepts to new, unknown ones
+( ) they make things more abstract
+( ) they sounds nice
+
+
+?: After you’ve presented the problem, you should
+
+( ) present the solution right away
+(X) present the solution slowly, walk students through every part of the code and how to manipulate it
+
 
 ???
 
