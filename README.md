@@ -7,7 +7,7 @@
 ?: What is the general flow of content in a Readme lesson? 
 
 ( ) exposition -> overview -> objectives -> resources
-(X) overview -> objectives -> resources -> exposition
+(X) overview -> objectives -> exposition -> resources
 ( ) objectives -> overview -> resources -> exposition
 ( ) objectives -> overview -> exposition -> resources
 
@@ -59,3 +59,5 @@ You expect this to print "There are 547 people coming to Beyonce's birthday part
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/readme-quiz'>Readme Quiz</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/readme-quiz'>Readme Quiz</a> on Learn.co and start learning to code for free.</p>
